@@ -1,0 +1,12 @@
+{"egg": false,
+"pet": true,
+"crop": true,
+"seed": false,
+"gear": false,
+"cosmetic": false,
+"eggs": false,
+"pets": true,
+"crops": true,
+"seeds": false,
+"cosmetics": false
+}
